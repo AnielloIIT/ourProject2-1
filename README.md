@@ -26,14 +26,27 @@ and I learned a lot about the importance of human interaction with websites.
 
 A 3-4 sentence critique of each group member’s work on the project.
 
-Syed Nayyer: https://github.com/snayyer
+Syed Nayyer: 
 
-There is a lot to say about this individual. 
+There is a lot to say about this individual. Multiple times he bailed on us 6 hours before due dates when he 
+said he would be there. He was using bootstrap at the beginning, I called him out on it and all he did was delete
+the css link. He then denied it so I asked him to explain his code line by line and he could not. I did this  
+because I need to know how his css works so there are no conflicts when we merge the style sheets. One of the 
+times he bailed on us he made everyone an admin for the master repository and it took away all the forks the 
+group made. All his actions that he thought were helping the group was actually making it more difficult for 
+everyone else. There were many emails he never responded to as well. He also tried to demonize me in an attempt 
+to make himself look innocent and me look like the bad guy but the group knows what I have been doing for the 
+project so it backfired on him. 
 
-Lara Teagues: https://github.com/lteagues1
+Lara Teagues: 
 
-Aniello Scartozzi: https://github.com/AnielloIIT
+The best communicator is the group. Attended every meeting and was very helpfuly with the project and orginizing 
+the group. 
 
-Dayeon Lee: https://github.com/DianaLeee
+Dayeon Lee: 
 
-Arthur Arreguin: https://github.com/AArreguin
+Missed a few meeting but had excellent communication with the group and did everything that was asked of her.
+
+Arthur Arreguin: 
+
+Has a great knowledge of HTML and CSS. Had many contributions to the group and also helped others with their pages. 
