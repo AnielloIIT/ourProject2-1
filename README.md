@@ -36,7 +36,9 @@ times he bailed on us he made everyone an admin for the master repository and it
 group made. All his actions that he thought were helping the group was actually making it more difficult for 
 everyone else. There were many emails he never responded to as well. He also tried to demonize me in an attempt 
 to make himself look innocent and me look like the bad guy but the group knows what I have been doing for the 
-project so it backfired on him. 
+project so it backfired on him. Now I am having to go back and fix all the merged css because he did it without the group 
+in order to make his copied code word and now I have to fix his mistakes onece again. If he was hardcoding and not 
+doing shady moves like this the project would have gone much smoother.
 
 Lara Teagues: 
 
